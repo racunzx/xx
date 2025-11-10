@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="yt_safwannazri" tvg-name="Safwan Nazri Podcast" group-title="YouTube" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mWmTxWvFq1mqpKz6MRxC1r8bIYX_EoK1RwZb3Kxg=s900-c-k-c0x00ffffff-no-rj", Safwan Nazri Podcast
+plugin://plugin.video.youtube/channel/UCtmFrRKIX82lc7Iqa5JSTGg/
